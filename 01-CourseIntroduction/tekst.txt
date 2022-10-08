@@ -1,0 +1,22 @@
+Ćw 1
+c. Przechowuje informacje przez dłuższy czas, nawet po wyłączeniu sprzętu
+Ćw 2
+Program to zbiór instrukcji, które określają obliczenia.
+Ćw 3
+Kompilator przetwarza kod na ten zrozumiały dla maszyny natomist interpeter służy do zapisuwanie programu przez programistę
+Ćw 4
+c kod źródłowy pythona
+Ćw 5
+Litera "m" w słwoie primt powinna być to litera "n" tzn print
+Ćw 6
+W pamięci głównej tzn Pmięci RAM
+Ćw 7
+b 44
+Ćw 8
+a. procesor - mózg
+b. pamięć główna - pamięć krótkotrwała
+c. pamięć pomocnicza - pamięć długotrwała
+d. urządzenie wejścia - narządy zmysłów(oko,ucho,skóra,nos,język)
+e. urządzenie wyjścia - struny głosowe,czynności wykonywane mięśniowo
+Ćw 9
+Sprawdzenie pisowni i ewnetualna poprawa
