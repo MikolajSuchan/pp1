@@ -6,6 +6,6 @@ else:
   while (a != '0805') and (i < 3):
     i += 1
     print ("Podałeś nieprawidłowy PIN. Spróbuj jeszcze raz!")
-    a = input ("Podaj nr PIN: ")
+    a = input ("Podaj nr PIN:\n")
 if i == 3:
   print ("Wprowadzono trzy razy błędnie nr PIN. Karta została zablokowana.")
