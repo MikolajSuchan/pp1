@@ -5,9 +5,10 @@ def compare(array1,array2):
         return False
 
 if compare()==True:
-    print("Array1:")
-    print("Array2:")
+    print(f"Array1:")
+    print(f"Array2:")
     print("Arrays are the same")
 else:
-
+    print(f"Array1:")
+    print(f"Array2:")
     print("Arrays are not the same")
