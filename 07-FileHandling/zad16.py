@@ -1,0 +1,6 @@
+r=open("random.txt","r")
+line=r.read()
+c=open("copy.txt","a")
+c.write(line)
+r.close()
+c.close()
