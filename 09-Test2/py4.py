@@ -4,7 +4,7 @@ def f(dictionary,x,y):
         p=dictionary.get(i)
         for j in p:
             if j>=x and j<=y:
-                sum=sum+j
+                sum+=j
     return sum
 
 

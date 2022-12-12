@@ -3,5 +3,6 @@ count=0
 while count<len(countries):
     for key,value in countries[count].items():
         print(value,end=" ")
+        count+=1
     print()
-    count+=1
+    
